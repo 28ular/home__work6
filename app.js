@@ -1,6 +1,5 @@
 let data = [42, 'текст', true, null, undefined, 3.14];
 
-// Операции
 console.log( data.length);
 console.log(data[0]);
 console.log( data[data.length - 1]);
